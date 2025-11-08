@@ -4,7 +4,7 @@ import { useState } from "react"
 
 const DEMO_EMAIL = "demo@eburon.ai"
 const DEMO_PASSWORD = "Eburon2025"
-const REDIRECT_URL = "/portal"
+const REDIRECT_URL = "/demo"
 
 export function Header() {
   const [email, setEmail] = useState("")
