@@ -64,7 +64,7 @@ export default function DemoPage() {
               marginBottom: "6px",
             }}
           >
-            Eburon / EY Demo
+            Eburon Voice Studio
           </div>
           <h1
             style={{
